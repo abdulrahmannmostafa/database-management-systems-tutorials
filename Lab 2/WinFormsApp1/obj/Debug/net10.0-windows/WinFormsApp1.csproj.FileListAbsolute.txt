@@ -1,0 +1,15 @@
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.exe
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.deps.json
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.runtimeconfig.json
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.pdb
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.Form1.resources
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.dll
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.pdb
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\TA\CU\Databases\Labs\Lab2 Practice C#\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.Form2.resources
